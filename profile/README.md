@@ -14,7 +14,7 @@ The goal of the operational thread is to demonstrate, on the basis of real proje
 
 The goal of the cultural thread is to foster and accelerate a cultural change along the dimensions of agility, collaboration and competence.
 
-![Ailab Vision](ailab_vision.png)
+![Ailab Vision](profile/ailab_vision.png)
 
 ## Products
 More than 20 projects delivered in productions. Reinforcement Learning applied to controls, Document Understanding via NLP, Automatic Visual Inspection via Computer Vision, Data Forecasting using ML.
