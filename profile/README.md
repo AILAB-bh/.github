@@ -63,6 +63,8 @@ We use LLM prompting to extract alloy formula from simple text.
 - DANNTe: a case study of a turbo-machinery sensor virtualization under domain shift - L Strazzera, V Gori, G Veneri - Distribution shifts: connecting methods and applications (DistShift) - NEURIPS    2    2021 [arxiv](https://arxiv.org/pdf/2201.03850.pdf)
 - Learning to Identify Drilling Defects in Turbine Blades with Single Stage Detectors - A Panizza, ST Stefanek, S Melacci, G Veneri, M Gori - Machine Learning for Engineering Modeling, Simulation, and Design Workshop 2020 [arxiv](https://arxiv.org/pdf/2208.04363.pdf)
 
+  See also [papers](https://github.com/AILAB-bh/papers)
+
 [![made](https://img.shields.io/badge/made%20with-ailab%20toolkit-FDB714)](https://github.com/AILAB-bh/AILAB-bh)
 
 ## Our Open Source Projects
