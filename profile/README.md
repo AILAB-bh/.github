@@ -14,7 +14,7 @@ The goal of the operational thread is to demonstrate, on the basis of real proje
 
 The goal of the cultural thread is to foster and accelerate a cultural change along the dimensions of agility, collaboration and competence.
 
-![Ailab Vision](profile/ailab_vision.png)
+![Ailab Vision](ailab_vision.png)
 
 ## Products
 More than 20 projects delivered in productions. Reinforcement Learning applied to controls, Document Understanding via NLP, Automatic Visual Inspection via Computer Vision, Data Forecasting using ML.
@@ -30,7 +30,7 @@ The goal is to automate inspection activities on a mineral lube oil skid used to
 
 ### Anomaly Detection using CV
 Identify potential anomalies using semi supervised approach.
-![Anomaly Detection using CV](profile/anomaly_cv.png)
+![Anomaly Detection using CV](anomaly_cv.png)
 
 [![made](https://img.shields.io/badge/made%20with-ailab%20toolkit-FDB714)](https://github.com/AILAB-bh/AILAB-bh)
 
