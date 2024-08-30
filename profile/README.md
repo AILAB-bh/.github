@@ -24,7 +24,7 @@ More than 20 projects delivered in productions. Reinforcement Learning applied t
 ### Plant Inspection using Computer Vision and Robotics
 The goal is to automate inspection activities on a mineral lube oil skid used to lubricate gas turbines. The robot navigates autonomously around the skid and performs inspections on items such as analogic indicators, digital displays, sight glasses, level gauges, and electric motors using cameras, thermal cameras and microphones. Data is collected over routine missions to allow the development and training of additional computer vision and machine learning models.
 
-![Plant Inspection using Computer Vision and Robotics](profile/plant.png)
+![Plant Inspection using Computer Vision and Robotics](plant.png)
 
 [![made](https://img.shields.io/badge/made%20with-ailab%20toolkit-FDB714)](https://github.com/AILAB-bh/AILAB-bh)
 
@@ -37,13 +37,13 @@ Identify potential anomalies using semi supervised approach.
 
 ### Design Optimization using AI
 Accelerate the aerodynamic design process using AI. Aerodynamic designers use CFD to predict the performance of a new design or to find the effect of a geometry modification on an existing design. Defining new geometries, creating a mesh, launching a set of CFD runs (speedline) and postprocessing results requires significant human and computational resources. We are investigating different approaches (supervised and semi-supervised learning) to explore the design space and automatically find optimal designs, without the need to run one or more speedlines for each new design.
-![Design Optimization using AI](profile/design.png)
+![Design Optimization using AI](design.png)
 
 [![made](https://img.shields.io/badge/made%20with-ailab%20toolkit-FDB714)](https://github.com/AILAB-bh/AILAB-bh)
 
 ### Extract Chemical Formula from Document using LLM
 We use LLM prompting to extract alloy formula from simple text.
-![Extract Chemical Formula from Document using LLM](profile/chemical.png)
+![Extract Chemical Formula from Document using LLM](chemical.png)
 
 [![made](https://img.shields.io/badge/made%20with-ailab%20toolkit-FDB714)](https://github.com/AILAB-bh/AILAB-bh)
 
@@ -83,8 +83,6 @@ We use LLM prompting to extract alloy formula from simple text.
 * DAI TK: https://github.com/AILAB-bh/ailab-dai
 * ROBOTIC TK : https://github.com/AILAB-bh/ailab-RandC
 * MLOPS TK : https://github.com/AILAB-bh/ailab-library
-
-
 
 [![build](https://img.shields.io/badge/build-ailab%20toolkit-D2821F)](https://github.com/AILAB-bhAILAB-bh)
 [![dependencies](https://img.shields.io/badge/dependencies-apache%20or%20better-01A5B8)](https://github.com/AILAB-bh/ailab/blob/main/open-source-license.png)
